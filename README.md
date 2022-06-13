@@ -8,7 +8,7 @@
     "پیشنهاد": "",
     "تیک": "",
     "توضیحات": "این پروژه می تواند خوش آمد گویی بگوید تا وقتی کاربر به برنامه امد خوش امد گویی بگوید",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/m321056_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/r964624_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/j258184_.jpg\"\n  }\n]"
+    "عکس": "[\n  {\n    \"عکس\": \"https://8pic.ir/uploads/Screenshot-۲۰۲۲-۰۵-۱۵-۰۷-۴۱-۰۰-۷۳۲-ir-divar.jpg"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/r964624_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/j258184_.jpg\"\n  }\n]"
   },
   {
     "متن": "آموزش اسکچور",
