@@ -36,7 +36,7 @@
     "لینک": "https://s24.picofile.com/d/8451258400/a8b3c45e-d338-4e8d-97b6-5e6be9724936/%DA%A9%D8%B1%D9%86%D9%88%D9%85%D8%AA%D8%B1_setup",
     "متن": "کرنومتر/تایمر",
     "فرمت": "se",
-    "عکس": "",
+    "عکس": "[\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/t608006_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/g185782_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/o5352_Screenshot_------_com.my.newproject11.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
 ]
