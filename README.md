@@ -16,7 +16,7 @@
     "لینک": "https://s24.picofile.com/d/8451247934/9c1492c1-dbc2-4be7-bf70-37bd30b69486/NewProject22_1_.swb",
     "متن": "صفحه دیباگ خطا",
     "فرمت": "sw",
-    "عکس": "",
+    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/w374908_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b573237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/t012348_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f233584_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/e311529_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
 ]
