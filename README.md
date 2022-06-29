@@ -18,5 +18,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/w374908_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b573237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/t012348_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f233584_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/e311529_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "",
+    "توضیحات": "تغییر شکل لاینر در گرافیک برنامه خیلی به شما کمک میکند",
+    "تصویر": "https://s6.uupload.ir/files/img_۲۰۲۲۰۶۲۹_۱۷۲۶۴۶_sdd4.jpg",
+    "لینک": "https://s24.picofile.com/d/8451248934/e680624b-af49-4ea9-b63e-839583976349/NewProject18_d_1_.swb",
+    "متن": "صفحه دیباگ خطا",
+    "فرمت": "sw",
+    "عکس": "",
+    "پیشنهاد": ""
   }
 ]
