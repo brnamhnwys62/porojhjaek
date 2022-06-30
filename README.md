@@ -31,12 +31,12 @@
   },
   {
     "تیک": "دارد",
-    "توضیحات": "برنامه تایمر . کرنومتر زمان سنج که در ساخت برنامه های خود میتوانید استفاده کنید این پروژه بسیار کاربردی است و از آن میتوان به بهتر شدن مهارت شما در برنامه سازی کمک کرد",
-    "تصویر": "https://s6.uupload.ir/files/4photoshop-icon-stopwatch-آیکون-تایمر_1ev3.jpg",
-    "لینک": "https://s24.picofile.com/d/8451258400/a8b3c45e-d338-4e8d-97b6-5e6be9724936/%DA%A9%D8%B1%D9%86%D9%88%D9%85%D8%AA%D8%B1_setup",
-    "متن": "کرنومتر/تایمر",
-    "فرمت": "se",
-    "عکس": "[\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/t608006_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/g185782_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/o5352_Screenshot_------_com.my.newproject11.jpg\"\n  }\n]",
+    "توضیحات": "تم برنامه به صورت خودکار در روز روشن میشود و در روز تم سیاه باید ( بلوک هایی که در برنامه استفاده شده باید شما داشته باشید در غیر این صورت برنامه عمل نمیکند برای نصب بلوک ها داخل برنامه sketchware jaek روی سه گزینه زده و نصب بلوک را انتخاب کنید )",
+    "تصویر": "https://s6.uupload.ir/files/theme_light_dark_icon_137104_onkb.png",
+    "لینک": "https://s25.picofile.com/d/8451265718/0f2778f9-9528-4bd8-9d2b-ce2c5aa1ed8e/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1.swb",
+    "متن": "تم خودکار روز و شب",
+    "فرمت": "sw",
+    "عکس": "",
     "پیشنهاد": "شده"
   }
 ]
