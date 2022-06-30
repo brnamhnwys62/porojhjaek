@@ -48,5 +48,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/w174096_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/n936013_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "رمز الگویی برنامه برای بالا بردن امنیت اپلیکیشن خود کاربر میتواند رمز را فعال یا غیر فعال کند و میتواند رمز قبلی که گذاشته را تغییر دهد",
+    "تصویر": "https://s6.uupload.ir/files/dots_internet_keypad_login_password_pattern_security_icon_127097_g69q.png",
+    "لینک": "https://s24.picofile.com/d/8451266576/36748834-4884-4b10-abc7-06bf4de98d00/%D8%B1%D9%85%D8%B2_%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C_.swb",
+    "متن": "رمز الگویی برنامه",
+    "فرمت": "sw",
+    "عکس": "",
+    "پیشنهاد": "شده"
   }
 ]
