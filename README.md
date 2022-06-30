@@ -46,7 +46,7 @@
     "لینک": "https://s25.picofile.com/d/8451265718/0f2778f9-9528-4bd8-9d2b-ce2c5aa1ed8e/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1.swb",
     "متن": "تم خودکار روز و شب",
     "فرمت": "sw",
-    "عکس": "",
+    "عکس": "[\n  {\n    \"عکس\": \"https://imgurl.ir/uploads/w174096_Screenshot_------_com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/n936013_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
 ]
