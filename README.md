@@ -58,5 +58,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/g371303_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/m549404_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/v706665_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/u398908_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "کم زیاد کردن صدای گوشی در خود برنامه بدون کلیک بر روی دکمه خود گوشی",
+    "تصویر": "https://s6.uupload.ir/files/speaker-2-1_6iox.jpg",
+    "لینک": "https://s25.picofile.com/d/8451272392/be91b427-ad06-4527-a87b-1bdb9ce3ff4b/%D8%B5%D8%AF%D8%A7%DB%8C_%D8%B1%D8%B3%D8%A7%D9%86%D9%87.swb",
+    "متن": "صدای رسانه",
+    "فرمت": "sw",
+    "عکس": "",
+    "پیشنهاد": "شده"
   }
 ]
