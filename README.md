@@ -78,5 +78,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/y157718_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/k954431_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f520757_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h084491_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "",
+    "توضیحات": "ساخت برنامه دفتر نقاشی با گرافیک بالا",
+    "تصویر": "https://s6.uupload.ir/files/ir.hachurepainting.hachurekids_0d58e712-b6d5-4f47-b5f9-bbc19c658389_rucx.png",
+    "لینک": "https://s24.picofile.com/d/8451379468/c1335d99-8c5e-4e51-a3ab-ce275162bfcb/drawing_Book_Pro.swb",
+    "متن": "دفتر نقاشی",
+    "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/y413988_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/i768456_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/u682762_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h311269_.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
   }
 ]
