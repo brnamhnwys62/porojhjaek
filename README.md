@@ -96,7 +96,7 @@
     "لینک": "https://s24.picofile.com/d/8451380476/4c8eeda7-6156-47a0-85dc-3cf7ca8429cd/Rubix_Cube.swb",
     "متن": "مکعب روبیک",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/z444116_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/l366318_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h541283_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/x270317_.jpg\"\n  }\n]",
+    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/e137535_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/n200414_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/v017009_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h208108_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
-] 
+]
