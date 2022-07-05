@@ -68,5 +68,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/v964559_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b539237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/g371287_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "",
+    "توضیحات": "گوگل مپ مکان یاب انتخاب مکان شبیه سازی کوگل مپ",
+    "تصویر": "https://s6.uupload.ir/files/download_sq7r.jpg",
+    "لینک": "https://s25.picofile.com/d/8451379126/b4e84377-2419-4f52-a169-563355483c6d/Google_Map_v_1_1_beta.swb",
+    "متن": "گوگل مپ مکان",
+    "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/y157718_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/k954431_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f520757_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h084491_.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
   }
 ]
