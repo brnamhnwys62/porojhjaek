@@ -86,7 +86,17 @@
     "لینک": "https://s24.picofile.com/d/8451379468/c1335d99-8c5e-4e51-a3ab-ce275162bfcb/drawing_Book_Pro.swb",
     "متن": "دفتر نقاشی",
     "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/y413988_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/i768456_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/u682762_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h311269_.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "",
+    "توضیحات": "مکعب روبیک با حالت ساخت دکمه چرخش به صورت سه بعدی و درست کردن رنگ آن",
+    "تصویر": "https://s6.uupload.ir/files/de1003122www.tiktarh.com__m2qu.jpg",
+    "لینک": "https://s24.picofile.com/d/8451380476/4c8eeda7-6156-47a0-85dc-3cf7ca8429cd/Rubix_Cube.swb",
+    "متن": "مکعب روبیک",
+    "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/z444116_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/l366318_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/h541283_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/x270317_.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
-]
+] 
