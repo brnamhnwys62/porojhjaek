@@ -76,7 +76,17 @@
     "لینک": "https://s27.picofile.com/d/8460293034/b03b66da-fc41-4520-b1ec-a12ec0d1d971/NewProject7n.swb",
     "متن": "دریافت حجم فایل",
     "فرمت": "sw",
-    "عکس": "",
+    "عکس": "[
+  {
+    "عکس": "https://www.uplooder.net/img/image/68/654c530ef4bb372d4c5c1ad6c064d22c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۴۴-۷۲۵-com.sketchware.remod.jpg"
+  },
+  {
+    "عکس": "https://www.uplooder.net/img/image/47/780c81e476c339cdb24560f1aa0c2a7c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۵۴-۷۳۹-com.sketchware.remod.jpg"
+  },
+  {
+    "عکس": "https://www.uplooder.net/img/image/79/d1d3c151e8131ced0237cdc90ed068df/Screenshot-۲۰۲۳-۰۲-۲۴-۱۴-۰۰-۱۹-۶۴۱-com.my.newproject2m0.jpg"
+  }
+]",
     "پیشنهاد": "شده"
   }
 ] 
