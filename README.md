@@ -86,17 +86,7 @@
     "لینک": "https://s29.picofile.com/d/8461973018/c70ed03b-d700-42a5-9d5d-f4fa1e8394cb/lifedeath.swb",
     "متن": "بازی شوخی زمان مرگ",
     "فرمت": "sw",
-    "عکس": "[
-  {
-    "عکس": "https://biaupload.com/do.php?imgf=org-b01ebf0ed0c51.jpg"
-  },
-  {
-    "عکس": "https://biaupload.com/do.php?imgf=org-9145776fc06a2.jpg"
-  },
-  {
-    "عکس": "https://biaupload.com/do.php?imgf=org-4e91974d6cdd3.jpg"
-  }
-]",
+    "عکس": "",
     "پیشنهاد": "شده"
   }
 ]
