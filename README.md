@@ -78,5 +78,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/68/654c530ef4bb372d4c5c1ad6c064d22c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۴۴-۷۲۵-com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/47/780c81e476c339cdb24560f1aa0c2a7c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۵۴-۷۳۹-com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/79/d1d3c151e8131ced0237cdc90ed068df/Screenshot-۲۰۲۳-۰۲-۲۴-۱۴-۰۰-۱۹-۶۴۱-com.my.newproject2m0.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "بازی شوخی که زمان مرگ شما را حدس میزند",
+    "تصویر": "https://s2.uupload.ir/files/828745_death_512x512_nmt.png",
+    "لینک": "https://s29.picofile.com/d/8461973018/c70ed03b-d700-42a5-9d5d-f4fa1e8394cb/lifedeath.swb",
+    "متن": "بازی شوخی زمان مرگ",
+    "فرمت": "sw",
+    "عکس": "",
+    "پیشنهاد": "شده"
   }
-] 
+]
