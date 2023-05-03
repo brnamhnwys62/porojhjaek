@@ -66,7 +66,7 @@
     "لینک": "https://s25.picofile.com/d/8451272392/be91b427-ad06-4527-a87b-1bdb9ce3ff4b/%D8%B5%D8%AF%D8%A7%DB%8C_%D8%B1%D8%B3%D8%A7%D9%86%D9%87.swb",
     "متن": "صدای رسانه",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/v964559_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b539237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/g371287_.jpg\"\n  }\n]",
+    "عکس": "",
     "پیشنهاد": "شده"
   },
   {
