@@ -96,7 +96,7 @@
     "لینک": "https://s29.picofile.com/file/8462897150/exet8.swb.html",
     "متن": "خروج با دو بار کلیک / مخفی کردن نوار پایین گوشی",
     "فرمت": "sw",
-    "عکس": "",
+    "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-8accee0e1d941.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-456dd6a006932.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
 ]
