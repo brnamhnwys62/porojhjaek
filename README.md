@@ -88,5 +88,15 @@
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-db2fcba61d471.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-4214d3935f181.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-e7b017ac357b1.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "خروج از برنامه با دو بار کلیک بر روی دکمه خروج گوشی و مخفی کردن نوار پایین گوشی در برنامه",
+    "تصویر": "https://s8.uupload.ir/files/icn1004547www.tiktarh.com_(1)_lj87.jpg",
+    "لینک": "https://s29.picofile.com/file/8462897150/exet8.swb.html",
+    "متن": "خروج با دو بار کلیک / مخفی کردن نوار پایین گوشی",
+    "فرمت": "sw",
+    "عکس": "",
+    "پیشنهاد": "شده"
   }
 ]
