@@ -4,7 +4,7 @@
     "توضیحات": "testttttttt Texas ",
     "تصویر": "",
     "تیک": "",
-    "لینک": "https://s8.uupload.ir/files/nnagashee24880449528582018_bxp.png",
+    "لینک": "https://filebin.net/oiuom255qt7tkwe6/__________..swb",
     "فرمت": "saaaaa",
     "عکس": "",
     "پیشنهاد": ""
