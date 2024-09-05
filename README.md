@@ -1,10 +1,10 @@
 [
   {
-    "متن": "متن",
+    "متن": "متن text",
     "توضیحات": "testttttttt Texas ",
     "تصویر": "",
     "تیک": "",
-    "لینک": "<a href=\"https://uplod.ir/k9k3fwzpyuu5/___________________..swb.htm\" target=_blank>___________________..swb - 62177</a>",
+    "لینک": "https://t.me/ffddffesse/2",
     "فرمت": "saaaaa",
     "عکس": "",
     "پیشنهاد": ""
