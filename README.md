@@ -4,7 +4,7 @@
     "توضیحات": "test Texas ",
     "تصویر": "",
     "تیک": "",
-    "لینک": "https://s24.picofile.com/file/8451266576/%D8%B1%D9%85%D8%B2_%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C_.swb",
+    "لینک": "https://s24.picofile.com/file/8451266576/%D8%B1%D9%85%D8%B2_%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C.swb",
     "فرمت": "sw",
     "عکس": "",
     "پیشنهاد": ""
