@@ -16,7 +16,7 @@
     "لینک": "https://github.com/brnamhnwys62/Filss_ssssss/raw/refs/heads/main/Debug_jaek%20v1.0%20(com.jaek.Debug,%201)%202025-07-24T012801.swb",
     "متن": "صفحه دیباگ خطا",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/w374908_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b573237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/t012348_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f233584_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/e311529_.jpg\"\n  }\n]",
+    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/k886685_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/l89676_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/o17046_IMG__.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   },
   {
