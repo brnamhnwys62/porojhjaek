@@ -12,7 +12,7 @@
   {
     "تیک": "دارد",
     "توضیحات": "صفحه‌ای که مشکل های برنامه خطاهای برنامه خود را نشان میدهد بدون اینکه برنامه خودش خطا را نشان دهد و از برنامه بیرون بپرد\nبا این پروژه کاربردی میتوان اگر برنامه خطا داد به صفحه دیباگ برود و خطا را نشان دهد و...",
-    "تصویر": "http://www.upsara.com/images/x270317_.jpg",
+    "تصویر": "https://s8.uupload.ir/files/icn1001327www.tiktarh.com__fyj2.jpg",
     "لینک": "https://s24.picofile.com/d/8451247934/9c1492c1-dbc2-4be7-bf70-37bd30b69486/NewProject22_1_.swb",
     "متن": "صفحه دیباگ خطا",
     "فرمت": "sw",
@@ -20,7 +20,7 @@
     "پیشنهاد": "شده"
   },
   {
-    "تیک": "",
+    "تیک": "دارد",
     "توضیحات": "تغییر شکل لاینر در گرافیک برنامه خیلی به شما کمک میکند",
     "تصویر": "https://s6.uupload.ir/files/img_۲۰۲۲۰۶۲۹_۱۷۲۶۴۶_sdd4.jpg",
     "لینک": "https://s24.picofile.com/d/8451248934/e680624b-af49-4ea9-b63e-839583976349/NewProject18_d_1_.swb",
@@ -66,7 +66,7 @@
     "لینک": "https://s25.picofile.com/d/8451272392/be91b427-ad06-4527-a87b-1bdb9ce3ff4b/%D8%B5%D8%AF%D8%A7%DB%8C_%D8%B1%D8%B3%D8%A7%D9%86%D9%87.swb",
     "متن": "صدای رسانه",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/v964559_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b539237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/g371287_.jpg\"\n  }\n]",
+    "عکس": "",
     "پیشنهاد": "شده"
   },
   {
@@ -77,6 +77,36 @@
     "متن": "دریافت حجم فایل",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/68/654c530ef4bb372d4c5c1ad6c064d22c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۴۴-۷۲۵-com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/47/780c81e476c339cdb24560f1aa0c2a7c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۵۴-۷۳۹-com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/79/d1d3c151e8131ced0237cdc90ed068df/Screenshot-۲۰۲۳-۰۲-۲۴-۱۴-۰۰-۱۹-۶۴۱-com.my.newproject2m0.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "بازی شوخی که زمان مرگ شما را حدس میزند",
+    "تصویر": "https://s2.uupload.ir/files/828745_death_512x512_nmt.png",
+    "لینک": "https://s29.picofile.com/d/8461973018/c70ed03b-d700-42a5-9d5d-f4fa1e8394cb/lifedeath.swb",
+    "متن": "بازی شوخی زمان مرگ",
+    "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-db2fcba61d471.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-4214d3935f181.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-e7b017ac357b1.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "خروج از برنامه با دو بار کلیک بر روی دکمه خروج گوشی و مخفی کردن نوار پایین گوشی در برنامه",
+    "تصویر": "https://s8.uupload.ir/files/icn1004547www.tiktarh.com_(1)_lj87.jpg",
+    "لینک": "https://s29.picofile.com/d/8462897150/225cba88-6c51-49f2-8104-786345903bd5/exet8.swb",
+    "متن": "خروج با دو بار کلیک / مخفی کردن نوار پایین گوشی",
+    "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-8accee0e1d941.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-456dd6a006932.jpg\"\n  }\n]",
+    "پیشنهاد": "شده"
+  },
+  {
+    "تیک": "دارد",
+    "توضیحات": "تبدیل فیلم به صدا با کیفیت اصلی فیلم",
+    "تصویر": "https://s28.picofile.com/file/8465505918/Icn1003810www_tiktarh_com_.jpg",
+    "لینک": "https://s28.picofile.com/d/8465506000/a96b8d73-c257-40ec-8889-fbe9832ef5ab/mp4_to_mp3.swb",
+    "متن": "تبدیل فیلم به صدا",
+    "فرمت": "sw",
+    "عکس": "[\n  {\n    \"عکس\": \"https://s28.picofile.com/file/8465505668/Screenshot_%DB%B2%DB%B0%DB%B2%DB%B3_%DB%B0%DB%B7_%DB%B0%DB%B5_%DB%B1%DB%B8_%DB%B2%DB%B0_%DB%B4%DB%B2_%DB%B4%DB%B4%DB%B1_com_sketchware_remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://s29.picofile.com/file/8465505642/Screenshot_%DB%B2%DB%B0%DB%B2%DB%B3_%DB%B0%DB%B7_%DB%B0%DB%B5_%DB%B1%DB%B8_%DB%B2%DB%B0_%DB%B3%DB%B6_%DB%B5%DB%B8%DB%B8_com_sketchware_remod.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   }
 ]
