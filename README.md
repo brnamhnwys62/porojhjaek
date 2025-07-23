@@ -26,7 +26,7 @@
     "لینک": "https://s24.picofile.com/d/8451248934/e680624b-af49-4ea9-b63e-839583976349/NewProject18_d_1_.swb",
     "متن": "تغییر شکل لاینر گردی",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/s460347_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f517141_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/p876895_.jpg\"\n  }\n]",
+    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/e594744_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/x784606_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/s100424_IMG__.jpg\"\n  }\n]",
     "پیشنهاد": ""
   },
   {
