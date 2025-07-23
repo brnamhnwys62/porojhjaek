@@ -12,8 +12,8 @@
   {
     "تیک": "دارد",
     "توضیحات": "صفحه‌ای که مشکل های برنامه خطاهای برنامه خود را نشان میدهد بدون اینکه برنامه خودش خطا را نشان دهد و از برنامه بیرون بپرد\nبا این پروژه کاربردی میتوان اگر برنامه خطا داد به صفحه دیباگ برود و خطا را نشان دهد و...",
-    "تصویر": "https://s8.uupload.ir/files/icn1001327www.tiktarh.com__fyj2.jpg",
-    "لینک": "https://s24.picofile.com/d/8451247934/9c1492c1-dbc2-4be7-bf70-37bd30b69486/NewProject22_1_.swb",
+    "تصویر": "https://cdn.imgurl.ir/uploads/o916850_17055680.png",
+    "لینک": "https://github.com/brnamhnwys62/Filss_ssssss/raw/refs/heads/main/Debug_jaek%20v1.0%20(com.jaek.Debug,%201)%202025-07-24T012801.swb",
     "متن": "صفحه دیباگ خطا",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/w374908_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/b573237_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/t012348_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/f233584_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/e311529_.jpg\"\n  }\n]",
