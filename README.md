@@ -3,7 +3,7 @@
     "تیک": "دارد",
     "توضیحات": "گذاشتن فایل گیف در برنامه و استفاده در برنامه خود",
     "تصویر": "https://cdn.imgurl.ir/uploads/y138531_5097503.png",
-    "لینک": "https://s24.picofile.com/d/8451242392/656e0870-818e-4c58-8a0c-0dc4637cc844/NewProject200_1_.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/gif_jaek%20v1.0%20(com.jaekzzzgif%2C%201)%202025-07-24T005843.swb",
     "متن": "گیف در برنامه",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/u534264_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/g93925_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/k058_IMG__.jpg\"\n  }\n]",
