@@ -43,7 +43,7 @@
     "تیک": "دارد",
     "توضیحات": "تم برنامه به صورت خودکار در روز روشن میشود و در روز تم سیاه باید ( بلوک هایی که در برنامه استفاده شده باید شما داشته باشید در غیر این صورت برنامه عمل نمیکند برای نصب بلوک ها داخل برنامه sketchware jaek روی سه گزینه زده و نصب بلوک را انتخاب کنید )",
     "تصویر": "https://s6.uupload.ir/files/theme_light_dark_icon_137104_onkb.png",
-    "لینک": "https://s25.picofile.com/d/8451265718/0f2778f9-9528-4bd8-9d2b-ce2c5aa1ed8e/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/jaek_Automatic_theme%20v1.0%20(com.jaek.theme%2C%201)%202025-07-24T204952.swb",
     "متن": "تم خودکار روز و شب",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/v329855_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/v4346_IMG__.jpg\"\n  }\n]",
