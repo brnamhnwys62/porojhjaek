@@ -93,7 +93,7 @@
     "تیک": "دارد",
     "توضیحات": "خروج از برنامه با دو بار کلیک بر روی دکمه خروج گوشی و مخفی کردن نوار پایین گوشی در برنامه",
     "تصویر": "https://s8.uupload.ir/files/icn1004547www.tiktarh.com_(1)_lj87.jpg",
-    "لینک": "https://s29.picofile.com/d/8462897150/225cba88-6c51-49f2-8104-786345903bd5/exet8.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/exet8%20v1.0%20(com.Jaek.exet%2C%201)%202025-07-25T225054.swb",
     "متن": "خروج با دو بار کلیک / مخفی کردن نوار پایین گوشی",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-8accee0e1d941.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-456dd6a006932.jpg\"\n  }\n]",
