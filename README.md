@@ -63,10 +63,10 @@
     "تیک": "دارد",
     "توضیحات": "کم زیاد کردن صدای گوشی در خود برنامه بدون کلیک بر روی دکمه ولوم گوشی",
     "تصویر": "https://s6.uupload.ir/files/speaker-2-1_6iox.jpg",
-    "لینک": "https://s25.picofile.com/d/8451272392/be91b427-ad06-4527-a87b-1bdb9ce3ff4b/%D8%B5%D8%AF%D8%A7%DB%8C_%D8%B1%D8%B3%D8%A7%D9%86%D9%87.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/Jaek_Volume%20v1.0%20(com.Jaek.Volume.adjustment%2C%201)%202025-07-25T144510.swb",
     "متن": "صدای رسانه",
     "فرمت": "sw",
-    "عکس": "",
+    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/s554566_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/d94723_IMG__.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   },
   {
