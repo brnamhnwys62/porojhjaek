@@ -83,7 +83,7 @@
     "تیک": "دارد",
     "توضیحات": "بازی شوخی که زمان مرگ شما را حدس میزند",
     "تصویر": "https://s2.uupload.ir/files/828745_death_512x512_nmt.png",
-    "لینک": "https://s29.picofile.com/d/8461973018/c70ed03b-d700-42a5-9d5d-f4fa1e8394cb/lifedeath.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/Jaek_lifedeath%20v1.0%20(jaek.death.life%2C%201)%202025-07-25T224326.swb",
     "متن": "بازی شوخی زمان مرگ",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-db2fcba61d471.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-4214d3935f181.jpg\"\n  },\n  {\n    \"عکس\": \"https://biaupload.com/do.php?imgf=org-e7b017ac357b1.jpg\"\n  }\n]",
