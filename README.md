@@ -56,7 +56,7 @@
     "لینک": "https://s24.picofile.com/d/8451266576/36748834-4884-4b10-abc7-06bf4de98d00/%D8%B1%D9%85%D8%B2_%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C_.swb",
     "متن": "رمز الگویی برنامه",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"http://www.upsara.com/images/g371303_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/m549404_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/v706665_.jpg\"\n  },\n  {\n    \"عکس\": \"http://www.upsara.com/images/u398908_.jpg\"\n  }\n]",
+    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/c96660_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/x48571_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/s87248_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/l249043_IMG__.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   },
   {
