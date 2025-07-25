@@ -53,7 +53,7 @@
     "تیک": "دارد",
     "توضیحات": "رمز الگویی برنامه برای بالا بردن امنیت اپلیکیشن خود کاربر میتواند رمز را فعال یا غیر فعال کند و میتواند رمز قبلی که گذاشته را تغییر دهد",
     "تصویر": "https://s6.uupload.ir/files/dots_internet_keypad_login_password_pattern_security_icon_127097_g69q.png",
-    "لینک": "https://s24.picofile.com/d/8451266576/36748834-4884-4b10-abc7-06bf4de98d00/%D8%B1%D9%85%D8%B2_%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C_.swb",
+    "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/Jaek_Password%20v1.0%20(com.jaek.Password%2C%201)%202025-07-25T141901.swb",
     "متن": "رمز الگویی برنامه",
     "فرمت": "sw",
     "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/c96660_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/x48571_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/s87248_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/l249043_IMG__.jpg\"\n  }\n]",
