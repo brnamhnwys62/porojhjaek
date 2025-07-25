@@ -76,7 +76,7 @@
     "لینک": "https://raw.githubusercontent.com/brnamhnwys62/Filss_ssssss/refs/heads/main/jaek_size_file%20v1.0%20(Com.Jaek.sizefile%2C%201)%202025-07-25T220844.swb",
     "متن": "دریافت حجم فایل",
     "فرمت": "sw",
-    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/r29142_IMG__.jpg"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/47/780c81e476c339cdb24560f1aa0c2a7c/Screenshot-۲۰۲۳-۰۲-۲۴-۱۳-۵۸-۵۴-۷۳۹-com.sketchware.remod.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/79/d1d3c151e8131ced0237cdc90ed068df/Screenshot-۲۰۲۳-۰۲-۲۴-۱۴-۰۰-۱۹-۶۴۱-com.my.newproject2m0.jpg\"\n  }\n]",
+    "عکس": "[\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/r29142_IMG__.jpg"\n  },\n  {\n    \"عکس\": \"https://cdn.imgurl.ir/uploads/r29142_IMG__.jpg\"\n  },\n  {\n    \"عکس\": \"https://www.uplooder.net/img/image/79/d1d3c151e8131ced0237cdc90ed068df/Screenshot-۲۰۲۳-۰۲-۲۴-۱۴-۰۰-۱۹-۶۴۱-com.my.newproject2m0.jpg\"\n  }\n]",
     "پیشنهاد": "شده"
   },
   {
